@@ -2,7 +2,9 @@
 
 > Experimental html transformer for metro
 
-I'm trying to use [`metro`](https://facebook.github.io/metro/) as a web bundler and the first issues I have occurred were `html` files. This transformer is pretty hackish. Maybe there is a better way to load the html, but I was quite happy that it works 😄.
+Part of my journey to use [`metro`](https://facebook.github.io/metro/) as a web bundler. This transformer is pretty hackish. Maybe there is a better way to load the html, but I was quite happy that it works 😄.
+
+Relevant to my [`metro-css-transformer`](https://github.com/tobiastimm/metro-css-transformer).
 
 ## Install
 
